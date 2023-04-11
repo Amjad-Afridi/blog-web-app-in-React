@@ -1,0 +1,34 @@
+{
+  "blogs-data": [
+    {
+      "title": "Sports Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima laborum libero ullam impedit facere veritatis unde earum tempora blanditiis ipsum expedita molestias odit cumque quae, repellat in iste beatae labore. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "Javascript for beginners",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, saepe vitae, tenetur maiores dolore facilis repellendus hic doloribus velit voluptates dicta repellat error minima quidem, tempora suscipit. Itaque, repellendus labore!",
+      "author": "John",
+      "id": 2
+    },
+    {
+      "title": "The party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, vitae quaerat magnam labore qui quidem consectetur, cum quos veritatis quo asperiores, similique possimus minus dolore vel perferendis nulla cupiditate molestiae!",
+      "author": "William",
+      "id": 3
+    },
+    {
+      "title": "Chat gpt blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum\nnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium\noptio, eaque rerum! Provident similique accusantium nemo autem. Veritatis\nobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam\nnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,\ntenetur error, harum nesciunt ipsum debitis quas aliquid ",
+      "author": "Holland",
+      "id": 6
+    },
+    {
+      "title": "Benefits of gym",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum\nnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium\noptio, eaque rerum! Provident similique accusantium nemo autem. Veritatis\nobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam\nnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,\ntenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit, quia Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia ",
+      "author": "Stephen",
+      "id": 7
+    }
+  ]
+}
